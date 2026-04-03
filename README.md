@@ -49,13 +49,9 @@ The application provides a **clean and interactive UI** where users can input pr
 ---
 
 ## 📸 Project Screenshots
+<img width="945" height="895" alt="Screenshot 2026-04-02 155521" src="https://github.com/user-attachments/assets/e770a1de-8421-487e-9155-34d84b7a30d9" />
 
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AekN00jPsCp_OzpXhiaThFg.jpeg)
-
-![Image](https://miro.medium.com/1%2A7jWYsIsZLfnqUwJ8mr2GjQ.png)
-
-![Image](https://user-images.githubusercontent.com/49127037/134292032-46ea40e6-32f3-45cd-92e6-ba865e53dba1.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ASnlzhxdIES0h3w-cqYDFrQ.jpeg)
-
+<img width="813" height="818" alt="Screenshot 2026-04-03 184618" src="https://github.com/user-attachments/assets/018fd1f2-1b20-4de0-9181-733b28d1cc5e" />
+<img width="924" height="589" alt="Screenshot 2026-04-03 184607" src="https://github.com/user-attachments/assets/3a03a4b4-8b65-4320-bea6-69726d5ead89" />
+<img width="925" height="707" alt="Screenshot 2026-04-03 184558" src="https://github.com/user-attachments/assets/0523ee6d-486d-46e0-aedd-644260a929ac" />
 
