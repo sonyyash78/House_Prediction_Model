@@ -3,7 +3,10 @@
 
 🏠 House Price Prediction using ML (Streamlit App)
 
-This project is an end-to-end machine learning web application built using Streamlit that predicts house prices based on features like total square feet, BHK, bathrooms, balcony, location, and area type.<img width="945" height="895" alt="Screenshot 2026-04-02 155521" src="https://github.com/user-attachments/assets/c43e34f4-c9dc-4051-9206-a90c2af3e91a" />
+This project is an end-to-end machi<img width="924" height="589" alt="Screenshot 2026-04-03 184607" src="https://github.com/user-attachments/assets/e47805ac-526c-405d-a6ca-c2dba30a4efe" />
+ne learning web application built using Streamlit that predicts house prices based on features like total square feet, BH<img width="813" height="818" alt="Screenshot 2026-04-03 184618" src="https://github.com/user-attachments/assets/23448b72-b1f4-4c6f-907f-64af9d19c0e3" /><img width="925" height="707" alt="Screenshot 2026-04-03 184558" src="https://github.com/user-attachments/assets/f8fb085d-eebf-47cd-b232-9124ce0d9bd3" />
+
+K, bathrooms, balcony, location, and area type.<img width="945" height="895" alt="Screenshot 2026-04-02 155521" src="https://github.com/user-attachments/assets/c43e34f4-c9dc-4051-9206-a90c2af3e91a" />
 
 
 The model uses a weighted ensemble approach combining Linear Regression, Random Forest, and XGBoost to improve prediction accuracy and robustness.
