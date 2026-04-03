@@ -1,31 +1,61 @@
-# House_Prediction_Model
-👉 “Built an end-to-end ML pipeline with visualization, model training, and deployment using Streamlit.”
+Here’s your **clean, professional GitHub README** with images neatly added at the end 👇
 
-🏠 House Price Prediction using ML (Streamlit App)
+---
 
-This project is an end-to-end machi<img width="924" height="589" alt="Screenshot 2026-04-03 184607" src="https://github.com/user-attachments/assets/e47805ac-526c-405d-a6ca-c2dba30a4efe" />
-ne learning web application built using Streamlit that predicts house prices based on features like total square feet, BH<img width="813" height="818" alt="Screenshot 2026-04-03 184618" src="https://github.com/user-attachments/assets/23448b72-b1f4-4c6f-907f-64af9d19c0e3" /><img width="925" height="707" alt="Screenshot 2026-04-03 184558" src="https://github.com/user-attachments/assets/f8fb085d-eebf-47cd-b232-9124ce0d9bd3" />
+# 🏠 House Price Prediction using ML (Streamlit App)
 
-K, bathrooms, balcony, location, and area type.<img width="945" height="895" alt="Screenshot 2026-04-02 155521" src="https://github.com/user-attachments/assets/c43e34f4-c9dc-4051-9206-a90c2af3e91a" />
+👉 Built an end-to-end machine learning pipeline with data analysis, model training, and deployment using Streamlit.
+
+This project is a complete machine learning web application that predicts house prices based on features such as total square feet, BHK, bathrooms, balcony, location, and area type.
+
+The model uses a **weighted ensemble approach** by combining:
+
+* Linear Regression
+* Random Forest
+* XGBoost
+
+This improves prediction accuracy and makes the model more robust.
+
+For data analysis and visualization, **Matplotlib and Seaborn** are used to:
+
+* Understand data distribution
+* Detect outliers
+* Analyze feature relationships
+
+The application provides a **clean and interactive UI** where users can input property details and get real-time predictions instantly.
+
+---
+
+## ⚙️ Tech Stack
+
+* Python
+* Pandas, NumPy
+* Scikit-learn
+* XGBoost
+* Matplotlib, Seaborn
+* Streamlit
+
+---
+
+## 🚀 Key Features
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Multiple ML models (LR, RF, XGBoost)
+* Ensemble learning for better accuracy
+* Interactive UI with Streamlit
+* Real-time price prediction
+
+---
+
+## 📸 Project Screenshots
+
+![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AekN00jPsCp_OzpXhiaThFg.jpeg)
+
+![Image](https://miro.medium.com/1%2A7jWYsIsZLfnqUwJ8mr2GjQ.png)
+
+![Image](https://user-images.githubusercontent.com/49127037/134292032-46ea40e6-32f3-45cd-92e6-ba865e53dba1.png)
+
+![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ASnlzhxdIES0h3w-cqYDFrQ.jpeg)
 
 
-The model uses a weighted ensemble approach combining Linear Regression, Random Forest, and XGBoost to improve prediction accuracy and robustness.
-
-For data analysis and visualization, Matplotlib and Seaborn are used to explore feature relationships, detect outliers, and understand data distribution before training the model.
-
-The application provides a clean and interactive UI where users can input property details and get real-time price predictions instantly.
-
-⚙️ Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-XGBoost
-Matplotlib, Seaborn
-Streamlit
-🚀 Key Features
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA) using Seaborn & Matplotlib
-Multiple ML models (LR, RF, XGBoost)
-Ensemble learning for better accuracy
-Interactive UI with Streamlit
-Real-time prediction system
