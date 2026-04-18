@@ -1,20 +1,29 @@
-# 🏠  # 🏠 House Price Prediction & Analysis Project 
+# 🏠 House Price Prediction & Analysis Project
+
 ### House Price Analysis & Prediction using Machine Learning + Streamlit
 
 ## 🔗 Live Demo
 
+🚀 Experience the live web app here:
+
 👉 https://housepredictionmodelyash.streamlit.app/
+
+✅ Successfully deployed on Streamlit Cloud
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-👉 An end-to-end Machine Learning project that combines **data analysis, visualization, model building, and deployment** to predict house prices based on real estate features.
-
 ---
 
-## 📸 Project Screenshots
+## 📌 Project Overview
+
+An end-to-end Machine Learning project that combines **data analysis, visualization, model building, and deployment** to predict house prices based on real estate features.
+
+This project helps users estimate property prices through an intelligent and user-friendly web application.
+
+---
 
 ## 📸 Project Screenshots
 
@@ -37,16 +46,12 @@
 <br>
 
 <img width="925" src="https://github.com/user-attachments/assets/0523ee6d-486d-46e0-aedd-644260a929ac" />
-## 🔗 Live Demo
-
-🚧 **Deployment Coming Soon**  
-The web application will be deployed soon on Streamlit Cloud.
 
 ---
 
-## 📌 Project Overview
+## 🎯 Features Used for Prediction
 
-This project predicts house prices using key property features such as:
+The model predicts house prices using key property features such as:
 
 - Total Square Feet  
 - BHK  
@@ -55,8 +60,6 @@ This project predicts house prices using key property features such as:
 - Location  
 - Area Type  
 - Availability Status  
-
-The goal of this project is to help users estimate property prices through an intelligent and user-friendly web application.
 
 ---
 
@@ -68,7 +71,7 @@ This project compares multiple regression models:
 - Random Forest Regressor  
 - XGBoost Regressor  
 
-An ensemble-based strategy was explored to improve prediction performance and reliability.
+An ensemble-based strategy was also explored to improve prediction performance.
 
 ---
 
@@ -87,19 +90,19 @@ Performed detailed analysis using **Matplotlib** and **Seaborn**:
 
 ## 📈 Model Comparison
 
-| Model             | R² Score  | MAE   |
-|-------------------|---------- |------ |
-| Linear Regression | 0.6561    | 13.25 |
-| Random Forest     | 0.7052    | 11.60 |
-| XGBoost           | 0.6935    | 11.51 |
+| Model             | R² Score | MAE   |
+|------------------|---------|------|
+| Linear Regression | 0.6561 | 13.25 |
+| Random Forest     | 0.7052 | 11.60 |
+| XGBoost           | 0.6935 | 11.51 |
 
 ### 🏆 Best Performing Model
 
-**Random Forest Regressor** delivered the highest R² Score (**0.7052**) with strong prediction accuracy.
+**Random Forest Regressor** achieved the highest R² Score (**0.7052**) with strong prediction accuracy.
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Highlights
 
 ✅ Data Cleaning & Preprocessing  
 ✅ Exploratory Data Analysis  
@@ -107,7 +110,7 @@ Performed detailed analysis using **Matplotlib** and **Seaborn**:
 ✅ Model Comparison  
 ✅ Real-time House Price Prediction  
 ✅ Interactive Streamlit Interface  
-✅ Clean and Scalable Workflow  
+✅ End-to-End Deployment  
 
 ---
 
